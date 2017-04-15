@@ -1,0 +1,5 @@
+C:\Users\AnilKumar\Desktop\Dot net\Regex\Regex\bin\Debug\Regex.exe.config
+C:\Users\AnilKumar\Desktop\Dot net\Regex\Regex\bin\Debug\Regex.exe
+C:\Users\AnilKumar\Desktop\Dot net\Regex\Regex\bin\Debug\Regex.pdb
+C:\Users\AnilKumar\Desktop\Dot net\Regex\Regex\obj\Debug\Regex.exe
+C:\Users\AnilKumar\Desktop\Dot net\Regex\Regex\obj\Debug\Regex.pdb

@@ -1,0 +1,5 @@
+C:\Users\AnilKumar\Desktop\Dot net\MultiCastDelegates\MultiCastDelegates\bin\Debug\MultiCastDelegates.exe
+C:\Users\AnilKumar\Desktop\Dot net\MultiCastDelegates\MultiCastDelegates\bin\Debug\MultiCastDelegates.pdb
+C:\Users\AnilKumar\Desktop\Dot net\MultiCastDelegates\MultiCastDelegates\obj\Debug\MultiCastDelegates.csprojResolveAssemblyReference.cache
+C:\Users\AnilKumar\Desktop\Dot net\MultiCastDelegates\MultiCastDelegates\obj\Debug\MultiCastDelegates.exe
+C:\Users\AnilKumar\Desktop\Dot net\MultiCastDelegates\MultiCastDelegates\obj\Debug\MultiCastDelegates.pdb

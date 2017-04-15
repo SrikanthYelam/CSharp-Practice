@@ -1,0 +1,6 @@
+C:\Users\AnilKumar\Desktop\Dot net\EnumExample\EnumExample\bin\Debug\EnumExample.exe.config
+C:\Users\AnilKumar\Desktop\Dot net\EnumExample\EnumExample\bin\Debug\EnumExample.exe
+C:\Users\AnilKumar\Desktop\Dot net\EnumExample\EnumExample\bin\Debug\EnumExample.pdb
+C:\Users\AnilKumar\Desktop\Dot net\EnumExample\EnumExample\obj\Debug\EnumExample.exe
+C:\Users\AnilKumar\Desktop\Dot net\EnumExample\EnumExample\obj\Debug\EnumExample.pdb
+C:\Users\AnilKumar\Desktop\Dot net\EnumExample\EnumExample\obj\Debug\EnumExample.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\AnilKumar\Desktop\Dot net\WhereClause\WhereClause\bin\Debug\WhereClause.exe
+C:\Users\AnilKumar\Desktop\Dot net\WhereClause\WhereClause\bin\Debug\WhereClause.pdb
+C:\Users\AnilKumar\Desktop\Dot net\WhereClause\WhereClause\obj\Debug\WhereClause.exe
+C:\Users\AnilKumar\Desktop\Dot net\WhereClause\WhereClause\obj\Debug\WhereClause.pdb

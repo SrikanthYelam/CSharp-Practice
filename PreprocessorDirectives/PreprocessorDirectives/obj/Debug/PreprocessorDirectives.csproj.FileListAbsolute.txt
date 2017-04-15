@@ -1,0 +1,6 @@
+C:\Users\AnilKumar\Desktop\Dot net\PreprocessorDirectives\PreprocessorDirectives\obj\Debug\PreprocessorDirectives.csprojResolveAssemblyReference.cache
+C:\Users\AnilKumar\Desktop\Dot net\PreprocessorDirectives\PreprocessorDirectives\bin\Debug\PreprocessorDirectives.exe.config
+C:\Users\AnilKumar\Desktop\Dot net\PreprocessorDirectives\PreprocessorDirectives\bin\Debug\PreprocessorDirectives.exe
+C:\Users\AnilKumar\Desktop\Dot net\PreprocessorDirectives\PreprocessorDirectives\bin\Debug\PreprocessorDirectives.pdb
+C:\Users\AnilKumar\Desktop\Dot net\PreprocessorDirectives\PreprocessorDirectives\obj\Debug\PreprocessorDirectives.exe
+C:\Users\AnilKumar\Desktop\Dot net\PreprocessorDirectives\PreprocessorDirectives\obj\Debug\PreprocessorDirectives.pdb

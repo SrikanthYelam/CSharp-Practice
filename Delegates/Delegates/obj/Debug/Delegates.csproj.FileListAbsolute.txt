@@ -1,0 +1,5 @@
+C:\Users\AnilKumar\Desktop\Dot net\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\AnilKumar\Desktop\Dot net\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\AnilKumar\Desktop\Dot net\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+C:\Users\AnilKumar\Desktop\Dot net\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\AnilKumar\Desktop\Dot net\Delegates\Delegates\obj\Debug\Delegates.pdb

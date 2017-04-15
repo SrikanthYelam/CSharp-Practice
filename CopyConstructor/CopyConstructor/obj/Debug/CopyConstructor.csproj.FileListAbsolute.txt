@@ -1,0 +1,7 @@
+C:\Users\AnilKumar\Desktop\Dot net\CopyConstructor\CopyConstructor\bin\Debug\CopyConstructor.exe
+C:\Users\AnilKumar\Desktop\Dot net\CopyConstructor\CopyConstructor\bin\Debug\CopyConstructor.pdb
+C:\Users\AnilKumar\Desktop\Dot net\CopyConstructor\CopyConstructor\obj\Debug\CopyConstructor.csprojResolveAssemblyReference.cache
+C:\Users\AnilKumar\Desktop\Dot net\CopyConstructor\CopyConstructor\obj\Debug\CopyConstructor.exe
+C:\Users\AnilKumar\Desktop\Dot net\CopyConstructor\CopyConstructor\obj\Debug\CopyConstructor.pdb
+C:\Users\AnilKumar\Desktop\CSharp-Practice\CopyConstructor\CopyConstructor\obj\Debug\CopyConstructor.exe
+C:\Users\AnilKumar\Desktop\CSharp-Practice\CopyConstructor\CopyConstructor\obj\Debug\CopyConstructor.pdb

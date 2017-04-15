@@ -1,0 +1,5 @@
+C:\Users\AnilKumar\Desktop\Dot net\StructExample\StructExample\bin\Debug\StructExample.exe.config
+C:\Users\AnilKumar\Desktop\Dot net\StructExample\StructExample\bin\Debug\StructExample.exe
+C:\Users\AnilKumar\Desktop\Dot net\StructExample\StructExample\bin\Debug\StructExample.pdb
+C:\Users\AnilKumar\Desktop\Dot net\StructExample\StructExample\obj\Debug\StructExample.exe
+C:\Users\AnilKumar\Desktop\Dot net\StructExample\StructExample\obj\Debug\StructExample.pdb
